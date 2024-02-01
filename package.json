@@ -11,7 +11,7 @@
     "start:watch": "nodemon ./src/index.js"
   },
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "@types/jest": "25.1.4",
