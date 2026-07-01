@@ -1,3 +1,3 @@
 module.exports = {
-  contactDetailsRouter: require('./router'),
+	contactDetailsRouter: require("./router"),
 };

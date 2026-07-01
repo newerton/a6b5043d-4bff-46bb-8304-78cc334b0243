@@ -1,3 +1,3 @@
 module.exports = {
-  pingRouter: require('./router'),
+	pingRouter: require("./router"),
 };

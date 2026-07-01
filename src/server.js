@@ -1,10 +1,10 @@
 function createServer() {
-  const http = require('http');
-  const router = require('./router');
+	const http = require("node:http");
+	const router = require("./router");
 
-  return http.createServer(router);
+	return http.createServer(router);
 }
 
 module.exports = {
-  createServer,
+	createServer,
 };

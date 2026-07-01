@@ -1,7 +1,7 @@
-const { resetFixturesIdGenerator } = require('./fixtures');
+const { resetFixturesIdGenerator } = require("./fixtures");
 
 jest.setTimeout(500);
 
 beforeEach(() => {
-  resetFixturesIdGenerator();
+	resetFixturesIdGenerator();
 });
